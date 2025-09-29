@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GraphQlApi\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|d:\\graphqlapi\\webapplication1\\webapplication1\\schema\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|solutionrelative:webapplication1\\schema\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|d:\\graphqlapi\\webapplication1\\webapplication1\\schema\\courcestype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|solutionrelative:webapplication1\\schema\\courcestype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|d:\\graphqlapi\\webapplication1\\webapplication1\\schema\\stydenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|solutionrelative:webapplication1\\schema\\stydenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|d:\\graphqlapi\\webapplication1\\webapplication1\\schema\\instructtype.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|solutionrelative:webapplication1\\schema\\instructtype.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|d:\\graphqlapi\\webapplication1\\webapplication1\\notes\\projectssetup and envoirnment setup.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\GraphQLAPI.csproj|solutionrelative:webapplication1\\notes\\projectssetup and envoirnment setup.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\WebApplication1.csproj|d:\\graphqlapi\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA934315-AF61-4750-B211-C74D4A026037}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StydentType.cs",
+              "DocumentMoniker": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\StydentType.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Schema\\StydentType.cs",
+              "ToolTip": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\StydentType.cs",
+              "RelativeToolTip": "WebApplication1\\Schema\\StydentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:49:12.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructType.cs",
+              "DocumentMoniker": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\InstructType.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Schema\\InstructType.cs",
+              "ToolTip": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\InstructType.cs",
+              "RelativeToolTip": "WebApplication1\\Schema\\InstructType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:48:47.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourcesType.cs",
+              "DocumentMoniker": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\CourcesType.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Schema\\CourcesType.cs",
+              "ToolTip": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\CourcesType.cs",
+              "RelativeToolTip": "WebApplication1\\Schema\\CourcesType.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:46:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsSetup and Envoirnment setup.md",
+              "DocumentMoniker": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Notes\\ProjectsSetup and Envoirnment setup.md",
+              "RelativeDocumentMoniker": "WebApplication1\\Notes\\ProjectsSetup and Envoirnment setup.md",
+              "ToolTip": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Notes\\ProjectsSetup and Envoirnment setup.md",
+              "RelativeToolTip": "WebApplication1\\Notes\\ProjectsSetup and Envoirnment setup.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-29T16:42:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\Query.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Schema\\Query.cs",
+              "ToolTip": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Schema\\Query.cs",
+              "RelativeToolTip": "WebApplication1\\Schema\\Query.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:27:07.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:13:30.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
