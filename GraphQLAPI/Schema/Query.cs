@@ -27,7 +27,7 @@ namespace GraphQLAPI.Schema
         [GraphQLName("CoursesByID")]
         public async Task<CourcesType?> GetCourseByIDAsync(Guid id)
         {
-            await Task.Delay(100);
+            // await Task.Delay(100);
 
             var courses = GetCources();
 
@@ -35,8 +35,6 @@ namespace GraphQLAPI.Schema
 
             return course;
         }
-
-
 
         [GraphQLDeprecated("This method is deprecated")]
         public string Instructions() => "Hello, GraphQL with HotChocolate!";

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "otyrhbgr7H4=",
+  "dgSpecHash": "wT/YfHUup2A=",
   "success": true,
-  "projectFilePath": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\GraphQLAPI.csproj",
+  "projectFilePath": "D:\\GraphQlApi\\GraphQLAPI\\GraphQLAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Akash Mishra\\.nuget\\packages\\bogus\\35.6.4\\bogus.35.6.4.nupkg.sha512",
     "C:\\Users\\Akash Mishra\\.nuget\\packages\\chillicream.nitro.app\\28.0.7\\chillicream.nitro.app.28.0.7.nupkg.sha512",

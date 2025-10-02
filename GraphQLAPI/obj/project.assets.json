@@ -1748,11 +1748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\GraphQLAPI.csproj",
+      "projectUniqueName": "D:\\GraphQlApi\\GraphQLAPI\\GraphQLAPI.csproj",
       "projectName": "GraphQLAPI",
-      "projectPath": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\GraphQLAPI.csproj",
+      "projectPath": "D:\\GraphQlApi\\GraphQLAPI\\GraphQLAPI.csproj",
       "packagesPath": "C:\\Users\\Akash Mishra\\.nuget\\packages\\",
-      "outputPath": "D:\\GraphQlApi\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\GraphQlApi\\GraphQLAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
