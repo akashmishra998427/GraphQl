@@ -1,6 +1,6 @@
-﻿namespace GraphQLAPI.Schema
+﻿namespace GraphQLAPI.Schema.Query
 {
-    public class StydentType
+    public class StudentType
     {
         public Guid ID { get; set; }
         public string FristName { get; set; }

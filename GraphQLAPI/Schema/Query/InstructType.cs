@@ -1,4 +1,4 @@
-﻿namespace GraphQLAPI.Schema
+﻿namespace GraphQLAPI.Schema.Query
 {
     public class InstructType
     {

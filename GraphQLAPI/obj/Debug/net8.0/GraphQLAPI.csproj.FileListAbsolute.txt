@@ -132,10 +132,10 @@ D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\staticwebassets.development.json
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\swae.build.ex.cache
+D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\GraphQLAPI.csproj.Up2Date
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\GraphQLAPI.dll
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\refint\GraphQLAPI.dll
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\GraphQLAPI.pdb
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\GraphQLAPI.genruntimeconfig.cache
 D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\ref\GraphQLAPI.dll
-D:\GraphQlApi\GraphQLAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

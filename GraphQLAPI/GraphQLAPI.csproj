@@ -7,14 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Schema\InstructType.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Schema\InstructType.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Bogus" Version="35.6.4" />
     <PackageReference Include="HotChocolate.AspNetCore" Version="15.1.10" />
   </ItemGroup>
